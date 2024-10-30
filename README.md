@@ -20,4 +20,6 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div> <br>
 
+Apaixonado pela tecnologia, a curiosidade é um DOM! 🚀
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&hide_progress=false)
