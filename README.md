@@ -22,4 +22,4 @@
 
 Apaixonado pela tecnologia, a curiosidade é um DOM! 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&hide_progress=true)
