@@ -9,6 +9,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speNillusion&show_icons=true&theme=radical)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=speNillusion&theme=midnight-purple&hide_border=false)<br/>
+
 ## Tecnologias do dia a dia ✨
 
 <div style="display: inline_block"><br/>
