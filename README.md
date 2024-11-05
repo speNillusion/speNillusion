@@ -26,3 +26,10 @@
 </div> <br>
 
 Passionate about technology! 🚀
+
+<hr>
+<div align="center">
+<br><p align="centre"><b>Views Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{speNillusion}/count.svg" /></p> 
+<br></div>
+</div>
