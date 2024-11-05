@@ -9,7 +9,7 @@
 
 # 👀 GitHub stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=speNillusion&theme=midnight-purple&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&theme=midnight-purple&hide_progress=true)
 
 ## Techs ✨
 
