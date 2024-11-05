@@ -1,4 +1,6 @@
-### Eai, tudo em cima? Eu sou o João! ⭐
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=add8e6&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+João!;Welcome. ⭐" alt="Typing SVG" /></a>
+</div>
 <br>
 
 [![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhon_olivver/)
