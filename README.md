@@ -23,6 +23,6 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div> <br>
 
-Apaixonado pela tecnologia, a curiosidade é um DOM! 🚀
+Passionate about technology! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&hide_progress=true)
