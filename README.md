@@ -7,7 +7,9 @@
 [![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhon_olivver/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-8114802ba/)
 
+# 👀 GitHub stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=speNillusion&theme=midnight-purple&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&hide_progress=true)
 
 ## Techs ✨
 
@@ -24,5 +26,3 @@
 </div> <br>
 
 Passionate about technology! 🚀
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&hide_progress=true)
