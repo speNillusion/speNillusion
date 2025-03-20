@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=speNillusion&theme=midnight-purple&hide_border=false)<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&theme=midnight-purple&hide_progress=true)
 
-## Techs
+## knowledge
 
   <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/></a>
