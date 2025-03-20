@@ -23,12 +23,6 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div> <br>
 
-<div align="center">
-<br><p align="centre"><b>Views Count</b></p>  
-<p align="center"><img align="center" src="https://starchart.cc/{speNillusion}/{repo}.svg" /></p> 
-<br></div>
-</div>
-
 Passionate about technology! 🚀
 
 <hr>
