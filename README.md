@@ -13,7 +13,6 @@
 ## Techs ✨
 
 <hr>
-<h3 align="left" >Linguagens de Programação</h3>
   <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/></a>
     <a href="https://www.w3schools.com/typescript/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
