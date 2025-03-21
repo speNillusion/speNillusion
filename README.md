@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://i.gifer.com/LRP3.gif" alt="Gif">
+  <img src="https://raw.githubusercontent.com/speNillusion/speNillusion/main/LRP3.gif" alt="Gif" />
 </p>
 
 <div align="center">
-    <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Baloo&pause=1000&width=435&lines=++++John's+GitHub;Welcome+to+my+room" alt="Typing SVG" />
-</p>
-    <br>
 
 ## Socials:
 
