@@ -1,6 +1,7 @@
 <div align="center">
+<img src="https://i.gifer.com/LRP3.gif" alt="!animation">
     <s href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=add8e6&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+john!;Welcome. ⭐" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Baloo&pause=1000&width=435&lines=++++John's+GitHub;Welcome+to+my+room" alt="Typing SVG" />
     </s>
     <br>
 
@@ -21,8 +22,10 @@ Estou constantemente em busca de novas oportunidades para aplicar e compartilhar
 </about>
 
 ## 👀 GitHub stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=speNillusion&theme=midnight-purple&hide_border=false)<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speNillusion&theme=midnight-purple&hide_progress=true)
+  
+<p align="left">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speNillusion&theme=radical" />
+</p>  
 
 ## Knowledge
 
@@ -67,6 +70,18 @@ Estou constantemente em busca de novas oportunidades para aplicar e compartilhar
             <img src="https://img.icons8.com/color/48/000000/numpy.png"/> 
         </a>
 </div>
+
+### More:
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; 
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) 
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
+
 
 <br>
 
