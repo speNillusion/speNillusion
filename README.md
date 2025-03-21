@@ -1,8 +1,11 @@
+<p align="center">
+  <img src="https://i.gifer.com/LRP3.gif" alt="Gif">
+</p>
+
 <div align="center">
-<img src="https://i.gifer.com/LRP3.gif" alt="!animation">
-    <s href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Baloo&pause=1000&width=435&lines=++++John's+GitHub;Welcome+to+my+room" alt="Typing SVG" />
-    </s>
+    <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Baloo&pause=1000&width=435&lines=++++John's+GitHub;Welcome+to+my+room" alt="Typing SVG" />
+</p>
     <br>
 
 ## Socials:
@@ -23,7 +26,7 @@ Estou constantemente em busca de novas oportunidades para aplicar e compartilhar
 
 ## 👀 GitHub stats:
   
-<p align="left">
+<p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speNillusion&theme=radical" />
 </p>  
 
