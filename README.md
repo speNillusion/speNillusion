@@ -62,9 +62,6 @@ Estou constantemente em busca de novas oportunidades para aplicar e compartilhar
         <a href="https://www.w3schools.com/pandas/" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/pandas.png"/> 
         </a>
-        <a href="https://www.w3schools.com/linkedin/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> 
-        </a>
         <a href="https://www.w3schools.com/numpy/" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/numpy.png"/> 
         </a>
