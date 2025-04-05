@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/speNillusion/speNillusion/main/LRP3.gif" alt="Gif" />
-</p>
-
 <div align="center">
 
 ## Socials:
