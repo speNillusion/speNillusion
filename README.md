@@ -65,6 +65,9 @@ Estou constantemente em busca de novas oportunidades para aplicar e compartilhar
         <a href="https://www.w3schools.com/numpy/" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/numpy.png"/> 
         </a>
+        <a href="https://www.w3schools.com/c/" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/c.png"/> 
+        </a>
 </div>
 
 ### More:
