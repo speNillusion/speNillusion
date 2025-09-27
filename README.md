@@ -9,13 +9,9 @@
 ## Me
 
 <about id="about">
-Iniciei minha jornada aos 14 anos, demonstrando interesse em explorar vulnerabilidades em sistemas e aplicativos, como WhatsApp, Instagram, entre outros. Dediquei-me a explorar bugs e falhas nessas plataformas, constantemente aprimorando meu conhecimento no processo.
-
-Aos 15 anos, desenvolvi meu primeiro bot de automação para WhatsApp utilizando Nodejs, enquanto continuava a explorar diversas vulnerabilidades e contribuir com atualizações de segurança para empresas renomadas, incluindo WhatsApp, Instagram e Claro. Posteriormente, busquei ampliar minha formação acadêmica, ingressando no curso de Gestão Empresarial ministrado pela renomada Flávia Martins na instituição Futtura Treinamentos Eireli. Atualmente, concluí o curso.
-
-Aos 16 anos, decidi expandir ainda mais meus horizontes e ingressei no curso de Desenvolvimento e Análise de Sistemas, onde estou atualmente dedicando-me para me tornar um desenvolvedor qualificado, e estou no meu último ano.
-
-Estou constantemente em busca de novas oportunidades para aplicar e compartilhar meu conhecimento, além de estar sempre aberto a aprender com aqueles que já alcançaram o sucesso em áreas nas quais almejo estar presente.
+I'm João Pedro, a Full-Stack Developer experienced in a variety of technologies, including Nest.js, Node.js, TypeScript, and Python.
+My work primarily involves freelance projects where I build RESTful APIs, web applications, automation tools, and data scrapers. 
+The technologies I use day-to-day are Nest.js, TypeScript, AWS, Github, Node.js, Oracle, and React.
 </about>
 
 ## 👀 GitHub stats:
@@ -82,14 +78,7 @@ Estou constantemente em busca de novas oportunidades para aplicar e compartilhar
 
 <br>
 
-Passionate about technology! 🚀
+I create Solutions as Softwares
 
 <hr>
-    <div align="center">
-        <br><p align="center"><b>Views Count</b></p>  
-        <p align="center">
-            <img align="center" src="https://profile-counter.glitch.me/{speNillusion}/count.svg" />
-        </p> 
-        <br>
-    </div>
 </div>
