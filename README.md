@@ -44,6 +44,9 @@ The technologies I use day-to-day are Nest.js, TypeScript, AWS, Github, Node.js,
         <a href="https://www.w3schools.com/mysql/" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
         </a>
+        <a href="https://www.w3schools.com/java/" target="_blank">
+            <img src="https://img.icons8.com/color/48/000000/java.png"/> 
+        </a>
         <a href="https://www.w3schools.com/git/" target="_blank">
             <img src="https://img.icons8.com/color/48/000000/git.png"/> 
         </a>
