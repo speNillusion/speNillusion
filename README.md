@@ -20,50 +20,10 @@ The technologies I use day-to-day are Nest.js, TypeScript, AWS, Github, Node.js,
 </p>  
 
 ## Knowledge
-
-<div align-items="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48"/>
-        </a>
-        <a href="https://www.w3schools.com/typescript/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/python/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/node/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/nestjs/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/nestjs.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/php/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/php.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/mysql/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/java/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/react.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/git/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/github/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/github.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/bootstrap/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/pandas/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/pandas.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/numpy/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/numpy.png"/> 
-        </a>
-        <a href="https://www.w3schools.com/c/" target="_blank">
-            <img src="https://img.icons8.com/color/48/000000/c.png"/> 
-        </a>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nestjs,php,mysql,java,react,git,github,bootstrap,c&perline=14" alt="My Skills" />
+  </a>
 </div>
 
 ### More:
